@@ -141,7 +141,4 @@ the code above is responsible for initiating the video generation flow.
 Discussion
 One of the challenges in the project was restricting heatmap to an area where cars will be available. When i didn't restricted trees and road signs were also detected. Also, the cars coming from other side of the road were detected. I noticed that size of the box keeps changing during the video process that needs to be improved.
 
-References
-Udacity Self-Driving Car Class Materials
-Self-Driving Car Project Q&A
-GitHub Link
+
